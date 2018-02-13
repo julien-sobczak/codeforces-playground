@@ -1,0 +1,9 @@
+7
+2 2 2 2 2 2 2
+pa
+qb
+rc
+sd
+te
+uf
+ll
